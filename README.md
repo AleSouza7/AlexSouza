@@ -14,7 +14,5 @@
 <div><br>
  <a href="https://www.linkedin.com/in/alex-costa-de-souza-43a76315b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-![Snake animation](https://github.com/Alesouza7/Alesouza7/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
  
