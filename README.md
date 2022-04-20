@@ -1,4 +1,4 @@
-# ▶️ Hello Word! Eu sou Alex Souza !! futuro developer FullStack
+# ▶️ Hello Word! Eu sou Alex Souza !! "futuro developer FullStack"
 * 📚 Cursando ADS | Estudando Linguagens de programação
 * ✅ Em busca de Estágio na área Tecnologia
 ------------------------------------------------------------------------------------
